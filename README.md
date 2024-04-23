@@ -1,4 +1,8 @@
-# Focus
+# Forkus - a branch of Focus
+
+Just go to https://github.com/focus-editor/focus
+
+---
 
 A simple editor whose goal is to get out of your way and let you do work.
 
